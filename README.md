@@ -1,1 +1,1 @@
-"Certificados" é a comprovação da conclusão do curso completo de Python do Curso em Vídeo (Professor Gustavo Guanabara) com mais de 70% de aprovação.
+"Certificados" é a comprovação da conclusão de todos os cursos feitos por mim. Atualmente, estão disponíveis os Mundos 1, 2 e 3, de Python do Curso em Vídeo, e em andamento, os cursos de Lógica de Programação (IFSul) e Javascript (IFMG).
