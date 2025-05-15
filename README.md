@@ -1,1 +1,1 @@
-"Certificados" é a comprovação da conclusão (com mais de 70% de aprovação) de cursos feitos por mim. Atualmente, estão disponíveis os Mundos 1, 2 e 3 de Python (Curso em Vídeo), e em andamento, os cursos de Lógica de Programação (IFSul) e JavaScript (IFMG).
+"Certificados" é a comprovação da conclusão (com mais de 70% de aprovação) de cursos feitos por mim.
